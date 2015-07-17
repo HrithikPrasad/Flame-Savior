@@ -1,1 +1,91 @@
-html,body{margin:0;padding:0}body{color:white;font-size:11pt;font-family:Verdana, Helvetica, Arial, sans-serif;background:#230d26 url("http://cbc.pokecommunity.com/config/backgrounds/ho-oh.png") no-repeat fixed left top}.mainmenufooter a{color:#ccc}.mainmenufooter a:hover{color:#e5e5e5}.menugroup .button{color:#fff;border:solid 1px #000;background:#333}.menugroup .button:hover{color:#fff;border:solid 1px #000;background:#262626}.menugroup .button:active{color:#fff;border:solid 1px #000;background:#262626}.broadcast-lobby{color:#fff;background-color:#230d26;padding:5px 7px}.broadcast-emerald{color:#fff;text-shadow:2px 2px 2px #000;background-color:#0b121f;background-repeat:no-repeat;padding:5px 7px;background-image:url("http://i.imgur.com/vJPZusL.png")}.broadcast-emerald-alt{color:#fff;background-color:#0b121f;padding:5px 7px}.profile-avatar{max-width:80px;max-height:80px}.profile-title{font-family:georgia;font-size:14pt;font-weight:bold;font-style:italic}
+/*Header*/
+#header{
+background:url("http://29.media.tumblr.com/tumblr_lmakejVp421qjm79qo1_400.jpg")
+}
+/*Main BG*/
+body {
+background-image:url('http://wallsistah.com/wp-content/uploads/2013/10/wallpaper-pokemon.jpg');
+background-repeat:no-repeat;
+background-position:center fixed;
+}
+
+
+/*PM Box*/
+.pm-log {
+min-height: 100px;
+max-height: 300px;
+background: url(http://www.pageresource.com/wallpapers/wallpaper/abstract-black-images_373729.jpg) center top scroll;
+color: #ffffff;
+word-wrap: break-word;
+overflow: auto;
+border: 0px solid #000000;
+border-top-left-radius: 0px;
+border-top-right-radius: 0px;
+}
+.pm-window h3 {
+    background: #181616;
+   border: 2px;
+}
+.pm-window.focused h3, .pm-window.focused h3:hover {
+background: #cbc8c8;
+border: 2px;
+}
+.pm-log-add {
+        background: #404040;
+   border: 2px;
+     border-color: #000;
+}
+
+/*Chat*/
+.chat-log {
+     font-size: 10pt;
+     background: url("http://i.imgur.com/q1Pkcrk.png") repeat;
+     opacity: 1;
+     border-left: 1px solid rgb(95, 200, 255);
+     overflow: auto;
+}
+
+
+.userbar{
+border:1px solid #8066B3;
+padding:5px;
+background: #8066B3;
+margin-top:-5px
+}
+
+/*"Look for a battle" buttons (when hovered over)*/
+.menugroup .button:hover {
+    background: #8066B3;
+   color: #8066B3
+}
+
+/*"Look for a battle" buttons*/
+.menugroup .button {
+     background: #8066B3;
+   color: #8066B3
+}
+
+
+.userlist {
+  background: #8066B3;
+  color: #8066B3;
+  border: 1px solid;
+}
+
+.tabbar a.button.cur,.tabbar a.button.cur:hover {
+color: #3b3b3b;
+text-shadow:none;
+   border: 2px;
+background: #cccccc;
+cursor: default;
+}
+
+.tabbar a.button {
+background: #3b3b3b;
+color: #cccccc;
+}
+
+.char {
+  background: url(http://fc09.deviantart.net/fs71/f/2012/275/7/7/black_and_grey_stripe_pattern_by_wiizkiid-d5gm6uv.png) center;
+  color: #eff;
+  }

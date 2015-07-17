@@ -4,7 +4,7 @@ background:url("http://img06.deviantart.net/a7f3/i/2012/294/8/2/all_fire_pokemon
 }
 /*Main BG*/
 body {
-background-image:url('http://wallsistah.com/wp-content/uploads/2013/10/wallpaper-pokemon.jpg');
+background-image:url('http://images.forwallpaper.com/files/images/6/6da1/6da1bb8a/600087/pokemon-red.jpg');
 background-repeat:no-repeat;
 background-position:center fixed;
 }
@@ -39,7 +39,7 @@ border: 2px;
 /*Chat*/
 .chat-log {
      font-size: 10pt;
-     background: url("http://i.imgur.com/q1Pkcrk.png") repeat;
+     background: url("http://p1.pichost.me/i/71/1960525.jpg") repeat;
      opacity: 1;
      border-left: 1px solid rgb(95, 200, 255);
      overflow: auto;

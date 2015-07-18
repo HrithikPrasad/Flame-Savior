@@ -413,13 +413,13 @@ var core = exports.core = {
         ':SwiftRage:': 'http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-680b6b3887ef0d17-21x28.png',
         ':fukya:': 'https://raw.github.com/stevoduhhero/datfeels/master/fukya.gif',
         ':ResidentSleeper:': 'http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1ddcc54d77fc4a61-28x28.png',
-        ':zinc:': 'http://i.imgur.com/yVy8Ihj.gif',
-        ':ashu:': 'http://i.imgur.com/pIV686k.gif',
+        ':chris:': 'http://i.imgur.com/yVy8Ihj.gif',
+        ':dranzardite:': 'http://i.imgur.com/pIV686k.gif',
         'fma': 'http://i.imgur.com/0NeA5Xp.gif',
         'rockass': 'http://i.imgur.com/1b6fFcM.gif',
-        'anrin': 'http://fc00.deviantart.net/fs71/f/2014/361/3/1/natsu_dragneel_gif_by_shadowpony567-d8bijx5.gif',
+        'zevron': 'http://fc00.deviantart.net/fs71/f/2014/361/3/1/natsu_dragneel_gif_by_shadowpony567-d8bijx5.gif',
         'hellangry': 'http://i.imgur.com/C6TuJy2.gif',
-        ':gleamy:': 'http://i.imgur.com/EMNaXed.gif',
+        ':kawaii:': 'http://i.imgur.com/EMNaXed.gif',
         ':OhShet:': 'http://i.imgur.com/e4kH4Zj.gif'
         
     },

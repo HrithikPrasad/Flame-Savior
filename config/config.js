@@ -6,7 +6,7 @@ exports.serverid = 'flamesavior';
 // The server token - to access the login database and ladder on pokemonshowdown.com
 //   This token must be registered for accessing the ladder, but you will
 //   still be able to login with an unregistered token.
-exports.servertoken = 'TEQMeVStegR+';
+exports.servertoken = 'N2bCTRfW6cmp';
 
 // The server port - the port to run Pokemon Showdown under
 exports.port = 8000;
